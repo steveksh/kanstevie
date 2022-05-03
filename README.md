@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Steve</h1>
+<h3 align="center">Data Analysis and Modelling</h3>
 
-<!--
-**KanStevie/kanstevie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 All of my projects are available at [https://kanstevie4.wixsite.com/page/resume](https://kanstevie4.wixsite.com/page/resume)
 
-Here are some ideas to get you started:
+- 📫 How to reach me **kanstevie4@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Know about my experiences [https://3e5bc7e6-c353-41b5-b3a0-9ad97d76c525.filesusr.com/ugd/830e87_2b66c421a5c54a18b1e6ba52376d4ffe.pdf](https://3e5bc7e6-c353-41b5-b3a0-9ad97d76c525.filesusr.com/ugd/830e87_2b66c421a5c54a18b1e6ba52376d4ffe.pdf)
+
+- ⚡ Fun fact **I love basketball and photography :)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/steveksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steveksh" height="30" width="40" /></a>
+<a href="https://kaggle.com/stevekan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stevekan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
