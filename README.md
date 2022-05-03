@@ -3,6 +3,7 @@
 
 <h4 align="center"> I am a recent graudate in Economics (Econometrics) and Business from the University of Waterloo.Currently pursuing a career in the data industry and planning to pursue a Master Degree in Data Science / Business Analytics. </h3>
 
+<br>
 
 - 👨‍💻 All of my projects are available at [https://kanstevie4.wixsite.com/page/resume](https://kanstevie4.wixsite.com/page/resume)
 
