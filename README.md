@@ -12,6 +12,7 @@
 - 📄 Know about my experiences [https://3e5bc7e6-c353-41b5-b3a0-9ad97d76c525.filesusr.com/ugd/830e87_2b66c421a5c54a18b1e6ba52376d4ffe.pdf](https://3e5bc7e6-c353-41b5-b3a0-9ad97d76c525.filesusr.com/ugd/830e87_2b66c421a5c54a18b1e6ba52376d4ffe.pdf)
 
 - ⚡ Fun fact **I love basketball and photography :)**
+<hr>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
