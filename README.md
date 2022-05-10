@@ -5,7 +5,8 @@
 
 <hr>  
 
-- 👨‍💻 All of my projects are available at [https://kanstevie4.wixsite.com/page/resume](https://kanstevie4.wixsite.com/page/resume)
+- 👨‍💻 All of my projects are available at <a href="https://kanstevie4.wixsite.com/page/resume">- Personal Website -</a>
+
 
 - 📫 How to reach me **kanstevie4@gmail.com**
 
