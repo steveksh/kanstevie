@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kanstevie4@gmail.com**
 
-- 📄 Know about my experiences <a href="https://3e5bc7e6-c353-41b5-b3a0-9ad97d76c525.filesusr.com/ugd/830e87_2b66c421a5c54a18b1e6ba52376d4ffe.pdf">- View my resume- </a>
+- 📄 Know about my experiences <a href="https://3e5bc7e6-c353-41b5-b3a0-9ad97d76c525.filesusr.com/ugd/830e87_2b66c421a5c54a18b1e6ba52376d4ffe.pdf">- View my resume - </a>
 
 - ⚡ Fun fact **I love basketball and photography :)**
 <hr>  
